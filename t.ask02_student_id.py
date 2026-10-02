@@ -1,0 +1,18 @@
+
+Student_Name = input("Enter your full name: ")
+Studnet_ID = input("Enter your ID: ")
+Department = input("What department are you learning: ")
+Year = input("What year are you: ")
+University = input("What is your university: ")
+phone_number = input("What is your phone number: ")
+
+print("+--------------------------+")
+print("|   AKIBA STUDNET CARD      |")
+print("+--------------------------+")
+print(f"Name: {Student_Name}")
+print(f"ID: {Studnet_ID}")
+print(f"Department: {Department}")
+print(f"Year: {Year}")
+print(f"University: {University}")
+print(f"phone: {phone_number}")
+print("+--------------------------+")
